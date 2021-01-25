@@ -1,6 +1,6 @@
 Amazon Clone App
 
-This is an E-Commerce website clone of Amazon Shopping site. This was created using React JS.
+This is an E-Commerce website clone of Amazon Shopping site. It was created purely with React JS and Firebase.
 
 Features :
 
